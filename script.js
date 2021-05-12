@@ -23,7 +23,7 @@ var rand  = function (min,max){
 		g.clearRect(0,0, graphics.width, graphics.height);
 		g.fillStyle = "#CC1111";
 		g.fillRect( ...a, s, s);
-		g.fillStyle = "#007D1C";
+		g.fillStyle = "#0ACF00";
 		
 	sBody1.forEach(function(elem1, i1){
 		if (elem1.x == sBody1[sBody1.length - 1].x && elem1.y ==
